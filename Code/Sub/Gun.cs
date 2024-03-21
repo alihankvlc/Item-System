@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace _Project.Common.ItemSystem
 {
-    [CreateAssetMenu(fileName = "New_Gun", menuName = "ItemSystem/Weapon/Gun/Create New Gun")]
+    [CreateAssetMenu(fileName = "New_Item", menuName = "ItemSystem/Create Data/Gun")]
     public sealed class Gun : WeaponData
     {
         //Gun variables...
