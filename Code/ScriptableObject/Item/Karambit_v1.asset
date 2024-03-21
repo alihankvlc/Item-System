@@ -9,11 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 47072e84011a41bb9a1372acce8b50d5, type: 3}
+  m_Script: {fileID: 11500000, guid: 3985e5ca3447408094178ea207b05469, type: 3}
   m_Name: Karambit_v1
   m_EditorClassIdentifier: 
-  _itemId: 0
-  _itemName: Item
-  _itemDescription: Description
-  _isStackable: 0
-  _itemIcon: {fileID: 0}
+  _itemData: {fileID: 0}
+  _itemCount: 1
